@@ -5,5 +5,10 @@
 ##### Heading 5
 ###### Heading 6
 
-* This text is italics
-_ This text is also italics
+*This text is italics*
+_This text is also italics_
+
+**This is bolded text**
+
+***This is bolded italic text***
+
