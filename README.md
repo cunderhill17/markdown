@@ -12,3 +12,12 @@ _This text is also italics_
 
 ***This is bolded italic text***
 
+Unordered List: 
+- Item 1
+- Item 2
+    - Item 2a
+    - Item 2b
+
+Ordered List: 
+1. First Item
+2. Second Item 
