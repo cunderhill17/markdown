@@ -27,6 +27,6 @@ This is a link
 
 This is an image: 
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/HitHub-Mark.png)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ![Gifts](images/IMG_2933.JPG)
